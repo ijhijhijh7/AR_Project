@@ -1302,9 +1302,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66bf87691e5c24d40972513c0b73bf56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boardPrefab: {fileID: 2840607398973924840, guid: 1f59dfafd97344249b4d9a37dc5f355f,
+  planePrefab: {fileID: 2840607398973924840, guid: 1f59dfafd97344249b4d9a37dc5f355f,
     type: 3}
-  raycastManager: {fileID: 363999144}
+  cubeGrid: {fileID: 0}
   startButton: {fileID: 693537878}
 --- !u!4 &1274647977
 Transform:
